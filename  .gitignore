@@ -1,0 +1,21 @@
+# Ignore all node_modules in project (frontend & backend)
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+.env.*.local
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# Editor/OS
+.DS_Store
+.vscode/
+.idea/
