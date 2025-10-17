@@ -1,0 +1,108 @@
+{
+  "name": "iPhone 16 128 GB: 5G Mobile Phone with A18 Chip, Advanced Dual-Camera System, and All-Day Battery Life",
+  "price": 79900,
+  "rating": 1467,
+  "plan": 6374,
+  "off": 15,
+  "exchange": 54750,
+  "description": "iPhone 16 delivers powerful performance with the A18 chip, an advanced dual-camera system, and an immersive Super Retina XDR display.",
+  "colors": [
+    {
+      "name": "blue",
+      "images": [
+        {
+          "original": "https://m.media-amazon.com/images/I/61Ony8rgwEL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/61Ony8rgwEL._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/51njdfo0QXL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/51njdfo0QXL._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/81PMoPfbWKL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/81PMoPfbWKL._SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "green",
+      "images": [
+        {
+          "original": "https://m.media-amazon.com/images/I/61eYPkT2zZL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/61eYPkT2zZL._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/51jWPC1ejwL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/51jWPC1ejwL._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/8111xWtl-PL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/8111xWtl-PL._SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "black",
+      "images": [
+        {
+          "original": "https://m.media-amazon.com/images/I/71rZV1dG83L._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/71rZV1dG83L._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/71Qn0oJ7q1L._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/71Qn0oJ7q1L._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/81MWQ-fpz8L._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/81MWQ-fpz8L._SL1500_.jpg"
+        }
+      ]
+    },
+    {
+      "name": "white",
+      "images": [
+        {
+          "original": "https://m.media-amazon.com/images/I/71M8ZrGJx0L._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/71M8ZrGJx0L._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/71AjQ2wsRLL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/71AjQ2wsRLL._SL1500_.jpg"
+        },
+        {
+          "original": "https://m.media-amazon.com/images/I/81XzDQHVXQL._SL1500_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/I/81XzDQHVXQL._SL1500_.jpg"
+        }
+      ]
+    }
+  ],
+  "storages": [
+    {
+      "size": "128 GB",
+      "price": 79900
+    },
+    {
+      "size": "256 GB",
+      "price": 89900
+    },
+    {
+      "size": "512 GB",
+      "price": 109900
+    },
+    {
+      "size": "1 TB",
+      "price": 129900
+    }
+  ],
+  "highlights": [
+    "BUILT FOR APPLE INTELLIGENCE — Apple Intelligence is the personal intelligence system that helps you write, express yourself and get things done effortlessly. With groundbreaking privacy protections, it gives you peace of mind that no one else can access your data — not even Apple.",
+    "TAKE TOTAL CAMERA CONTROL — Camera Control gives you an easier way to quickly access camera tools, like zoom or depth of field, so you can take the perfect shot in record time.",
+    "GET FURTHER AND CLOSER — The improved Ultra Wide camera with autofocus lets you take incredibly detailed macro photos and videos. Use the 48MP Fusion camera for stunning high-resolution images, and zoom in with the 2x optical-quality Telephoto.",
+    "PHOTOGRAPHIC STYLES — The latest-generation Photographic Styles give you greater creative flexibility, so you can make every photo even more you. And you can reverse any of those styles anytime you want.",
+    "SUPER-SMART A18 CHIP — A18 jumps two generations ahead of the A16 Bionic chip in iPhone 15. It enables Apple Intelligence, powers advanced photo and video features, and supports console-level gaming, with exceptional power efficiency."
+  ],
+  "marketingImages": [
+    "https://m.media-amazon.com/images/G/31/img25/Wireless/Madhav/Feb/Apple/River/16/iPhone_16_Marketing_Page_Flex_Module_Avail_Amazon_Desktop_1500px__en-IN_01._CB547243914_.jpg",
+    "https://m.media-amazon.com/images/G/31/img25/Wireless/Madhav/Feb/Apple/River/16/iPhone_16_Marketing_Page_Flex_Module_Avail_Amazon_Desktop_1500px__en-IN_05._CB547243914_.jpg"
+  ]
+}

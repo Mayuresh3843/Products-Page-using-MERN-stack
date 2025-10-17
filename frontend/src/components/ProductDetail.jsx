@@ -13,7 +13,7 @@ export default function ProductDetail() {
 
   useEffect(() => {
     axios
-      .get(`http://localhost:5000/products/${id}`)
+      .get(`http://localhost:3000/products/${id}`)
       .then((res) => {
         setProduct(res.data);
 
@@ -114,10 +114,10 @@ export default function ProductDetail() {
 
           {/* Delivery */}
           <p className="text-green-700 font-medium">
-            In stock • Free delivery fri, 3 Oct
+            In stock • Free delivery fri, 20 Oct
           </p>
           <p className="text-black font-medium ">
-            or fastest delivery <span className="font-bold"> Tomorrow Wed, 1 Oct.</span>
+            or fastest delivery <span className="font-bold"> Tomorrow Wed, 19 Oct.</span>
             <br /> Order within <span className="text-green-700"> 14 hours 12min</span>
           </p>
 
