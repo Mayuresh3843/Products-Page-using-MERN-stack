@@ -122,6 +122,25 @@ Check the Postman Query file
 </h3>
 
 ✅ Products will now appear in the frontend UI.
+---
+
+## 🔐 User Authentication  
+- Users can Sign Up and Log In using JWT-based authentication.  
+- On successful login, a token is stored in localStorage. 
+- Only logged-in users can access the Dashboard page  
+- The navbar dynamically updates — showing Login when logged out and Logout when logged in.  
+- Users can Sign Up and Log In using JWT-based authentication.  
+- On successful login, a token is stored in localStorage.
+
+
+---
+
+## 📊 Dashboard Page 
+
+- Accessible only after login
+- Displays user name and email fetched from JWT-protected endpoint
+- Displays product page
+
 
 ## 📸 Screenshots  
 
