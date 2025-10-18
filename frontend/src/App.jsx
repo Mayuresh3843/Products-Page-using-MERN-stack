@@ -1,6 +1,6 @@
 // src/App.jsx
 import React from "react";
-import Navbar from "./components/Navbar.jsx";
+import Navbar from "./components/navbar.jsx";
 import Products from "./components/products.jsx";
 import LoginPage from "./components/LoginPage.jsx";
 import Signup from "./components/Signup.jsx";
